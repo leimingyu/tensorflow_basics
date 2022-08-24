@@ -5,3 +5,5 @@
 * class02:  build a small NN model for the MNIST dataset
 * class03:  load pretrained model, visualize the filter outcome
 * class04:  visualize kernel/filter weights using tensorboard 
+* class05:  save filter 
+* class06:  permutate the tensorflow indices 
